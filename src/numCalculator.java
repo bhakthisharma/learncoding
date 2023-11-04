@@ -13,12 +13,10 @@ public class numCalculator {
             }
             if (n<small) {
                 small = n;
-
             }
             if (n>large) {
                 large = n;
             }
-
         }
         System.out.println("The largest number you entered is:" + large);
         System.out.println("The largest number you entered is:" + small);

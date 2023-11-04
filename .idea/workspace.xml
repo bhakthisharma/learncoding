@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae5a92dd-db81-4027-9006-d644550e4db3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/numCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Average.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumofOddEvenNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Adder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Adder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Evennumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learncoding/Adder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learncoding/Adder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learncoding/Evennumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learncoding/numCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learncoding/numCalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/numCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/numCalculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +43,7 @@
     "last_opened_file_path": "C:/Users/DiyaUser14/Desktop/coding/learncoding"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.numCalculator">
+  <component name="RunManager" selected="Application.Average">
     <configuration name="Adder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Adder" />
       <module name="learncoding" />
@@ -48,15 +51,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Candy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Candy" />
+    <configuration name="Average" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Average" />
       <module name="learncoding" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Evennumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Evennumbers" />
+    <configuration name="SumofOddEvenNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumofOddEvenNumbers" />
       <module name="learncoding" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Average" />
+        <item itemvalue="Application.SumofOddEvenNumbers" />
         <item itemvalue="Application.numCalculator" />
         <item itemvalue="Application.Adder" />
         <item itemvalue="Application.Tables" />
-        <item itemvalue="Application.Candy" />
-        <item itemvalue="Application.Evennumbers" />
       </list>
     </recent_temporary>
   </component>
