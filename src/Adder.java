@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class Adder {
-    static int n=0,limit,sum=0;
+    static int n=0,sum=0;
     static void stopInput() {
         Scanner sc=new Scanner(System.in);
         while(true) {
