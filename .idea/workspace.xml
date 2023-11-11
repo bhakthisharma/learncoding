@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae5a92dd-db81-4027-9006-d644550e4db3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Average.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SumofOddEvenNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/guessTheNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learncoding/Adder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learncoding/Adder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learncoding/Evennumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learncoding/numCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learncoding/numCalculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/numCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/numCalculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,23 +31,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/DiyaUser14/Desktop/coding/learncoding"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/DiyaUser14/Desktop/coding/learncoding&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Average">
-    <configuration name="Adder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Adder" />
+}</component>
+  <component name="RunManager" selected="Application.guessTheNumber">
+    <configuration name="Average" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Average" />
       <module name="learncoding" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Average" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Average" />
+    <configuration name="MeanMedianMode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MeanMedianMode" />
+      <module name="learncoding" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OccurenceOfNine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OccurenceOfNine" />
       <module name="learncoding" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -65,15 +67,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tables" />
-      <module name="learncoding" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="numCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="numCalculator" />
+    <configuration name="guessTheNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="guessTheNumber" />
       <module name="learncoding" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +76,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.guessTheNumber" />
+        <item itemvalue="Application.MeanMedianMode" />
+        <item itemvalue="Application.OccurenceOfNine" />
         <item itemvalue="Application.Average" />
         <item itemvalue="Application.SumofOddEvenNumbers" />
-        <item itemvalue="Application.numCalculator" />
-        <item itemvalue="Application.Adder" />
-        <item itemvalue="Application.Tables" />
       </list>
     </recent_temporary>
   </component>
